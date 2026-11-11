@@ -1,0 +1,10 @@
+.venv/
+data/
+__pycache__/
+*.onnx
+*.pt
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+.ab-venv
